@@ -1,4 +1,4 @@
-# EVE Online PI Templates
+# EVE Online PI Templates ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This repository contains a collection of templates for Planetary Interaction (PI) in **EVE Online**. These templates are designed to optimize your planet setups and production processes for various resources across different Command Center levels (CCU).
 
@@ -24,7 +24,6 @@ You can chose specific files from the group. Those are divided on 2 folders.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Contributing
 
