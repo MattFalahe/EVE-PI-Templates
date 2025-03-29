@@ -21,6 +21,11 @@ You can chose specific files from the group. Those are divided on 2 folders.
 - CCU IV for all with skill Command Center Upgrades IV
 - CCU V for all with skill Command Center Upgrades V
 
+## How to Copy Templates Automatically (Windows)
+1. Download the repository (`Download ZIP` or `git clone ...`).
+2. Extract or navigate to the folder.
+3. Double-click `copy_all_json.bat` to copy all JSON files to the correct location.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
