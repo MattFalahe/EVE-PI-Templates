@@ -18,5 +18,12 @@ for /r "%CD%" %%F in (*.json) do (
     copy /Y "%%F" "%DEST%"
 )
 
-echo All JSON files have been copied to %DEST%
+echo.
+echo =====================================
+echo   All JSON files have been copied!
+echo   Destination: %DEST%
+echo   Good luck with your PI setup! 
+echo =====================================
+echo.
+
 pause
