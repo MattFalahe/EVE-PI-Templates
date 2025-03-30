@@ -39,9 +39,11 @@ Here are some example setups to help visualize the planetary layouts:
   - **CCU IV templates** may require deleting the left Launchpad on some planets to free up power.  
 - To keep your facilities running **24/7**, your extractor must produce **1,152,000 P0 (raw materials) per day**.  
 
+### P2 Factory Setup  
+
 <p align="center">
-    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%">
-    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%">
+    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%" height="250px">
+    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%" height="250px">
 </p>
 
 *This is a single **P2 factory** layout. If you have **Command Center Upgrades V (CCU V)**, you can place **two** of these setups on one planet.  
