@@ -29,7 +29,10 @@ You can chose specific files from the Miners group. Those are divided on 2 folde
 Here are some example setups to help visualize the planetary layouts:
 
 ### **Miners Setup**
-![Miners Setup](Templates/images/Miners_setup_preview.png)
+
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+    <img src="Templates/images/Miners_setup_preview.png" style="height: auto"; width: auto;">
+</div>
 
 *This setup is optimized for maximum extraction efficiency, ensuring a steady flow of raw materials for P1 production.*  
 
@@ -39,10 +42,12 @@ Here are some example setups to help visualize the planetary layouts:
   - **CCU IV templates** may require deleting the left Launchpad on some planets to free up power.  
 - To keep your facilities running **24/7**, your extractor must produce **1,152,000 P0 (raw materials) per day**.  
 
-<p align="center">
-    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%">
-    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%">
-</p>
+### P2 Factory Setup  
+
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+    <img src="Templates/images/1_x_P2_Factory_preview.png" style="height: 810px; width: auto;">
+    <img src="Templates/images/2_x_P2_Factory_preview.png" style="height: 810px; width: auto;">
+</div>
 
 *This is a single **P2 factory** layout. If you have **Command Center Upgrades V (CCU V)**, you can place **two** of these setups on one planet.  
 If you have **CCU IV**, you may need to **delete 1 or 2 facilities** from the template to fit within power limits.*  
