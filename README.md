@@ -42,8 +42,8 @@ Here are some example setups to help visualize the planetary layouts:
 ### P2 Factory Setup  
 
 <p align="center">
-    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%" height="500px">
-    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%" height="500px">
+    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%">
+    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%" style="height: auto;">
 </p>
 
 *This is a single **P2 factory** layout. If you have **Command Center Upgrades V (CCU V)**, you can place **two** of these setups on one planet.  
