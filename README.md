@@ -41,10 +41,10 @@ Here are some example setups to help visualize the planetary layouts:
 
 ### P2 Factory Setup  
 
-<p align="center">
-    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%">
-    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%" style="height: auto;">
-</p>
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+    <img src="Templates/images/1_x_P2_Factory_preview.png" style="width: 45%; height: auto;">
+    <img src="Templates/images/2_x_P2_Factory_preview.png" style="width: 45%; height: auto;">
+</div>
 
 *This is a single **P2 factory** layout. If you have **Command Center Upgrades V (CCU V)**, you can place **two** of these setups on one planet.  
 If you have **CCU IV**, you may need to **delete 1 or 2 facilities** from the template to fit within power limits.*  
