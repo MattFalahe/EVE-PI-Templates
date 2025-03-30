@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 :: Look for EVE\PlanetaryInteractionTemplates in common locations
 set "DEST="
-for %%D in ("%USERPROFILE%\OneDrive\Dokumenty" "%USERPROFILE%\Dokumenty" "%USERPROFILE%\Documents" "%USERPROFILE%\OneDrive\Documents") do (
+for %%D in ("%USERPROFILE%\OneDrive\Dokumenty" "%USERPROFILE%\OneDrive\Documents" "%USERPROFILE%\Dokumenty" "%USERPROFILE%\Documents") do (
     if exist "%%D\EVE\PlanetaryInteractionTemplates" set "DEST=%%D\EVE\PlanetaryInteractionTemplates"
 )
 
