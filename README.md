@@ -31,7 +31,7 @@ Here are some example setups to help visualize the planetary layouts:
 ### **Miners Setup**
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="Templates/images/Miners_setup_preview.png" style="height: auto"; width: auto;">
+    <img src="Templates/images/Miners_setup_preview.png" style="height: auto; width: auto;">
 </div>
 
 *This setup is optimized for maximum extraction efficiency, ensuring a steady flow of raw materials for P1 production.*  
@@ -45,9 +45,11 @@ Here are some example setups to help visualize the planetary layouts:
 ### P2 Factory Setup  
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="Templates/images/1_x_P2_Factory_preview.png" style="height: 810px; width: auto;">
-    <img src="Templates/images/2_x_P2_Factory_preview.png" style="height: 810px; width: auto;">
+    <img id="img1" src="Templates/images/1_x_P2_Factory_preview.png" style="width: 45%; height: auto;">
+    <img id="img2" src="Templates/images/2_x_P2_Factory_preview.png" style="width: 45%; height: auto;">
 </div>
+
+
 
 *This is a single **P2 factory** layout. If you have **Command Center Upgrades V (CCU V)**, you can place **two** of these setups on one planet.  
 If you have **CCU IV**, you may need to **delete 1 or 2 facilities** from the template to fit within power limits.*  
