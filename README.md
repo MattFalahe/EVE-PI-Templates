@@ -29,7 +29,7 @@ You can chose specific files from the Miners group. Those are divided on 2 folde
 Here are some example setups to help visualize the planetary layouts:
 
 ### **Miners Setup**
-![Miners Setup](Templates/images/Miners_setup.png)
+![Miners Setup](Templates/images/Miners_setup_preview.png)
 
 *This setup is optimized for maximum extraction efficiency, ensuring a steady flow of raw materials for P1 production.*  
 
@@ -40,8 +40,8 @@ Here are some example setups to help visualize the planetary layouts:
 - To keep your facilities running **24/7**, your extractor must produce **1,152,000 P0 (raw materials) per day**.  
 
 <p align="center">
-    <img src="Templates/images/1_x_P2_Factory.png" width="45%">
-    <img src="Templates/images/2_x_P2_Factory.png" width="45%">
+    <img src="Templates/images/1_x_P2_Factory_preview.png" width="45%">
+    <img src="Templates/images/2_x_P2_Factory_preview.png" width="45%">
 </p>
 
 *This is a single **P2 factory** layout. If you have **Command Center Upgrades V (CCU V)**, you can place **two** of these setups on one planet.  
