@@ -75,7 +75,7 @@ If you have **CCU IV**, you may need to **delete 1 or 2 facilities** from the te
 - The **central Launchpad** stores **P2 products** and supplies them to the factories to produce **P3 products**.  
 - **P3 products** will be stored in the same Launchpad, ensuring **easy access**.  
 - **Orbital Skyhooks** can be used to store extra P2 materials and transfer them when production requires it.  
-- This setup **maximizes efficiency** while keeping logistics simple. Allows you to mix models **P2 + P3 / P3 + P3 ** to be flexible. 
+- This setup **maximizes efficiency** while keeping logistics simple. Allows you to mix models **P2 + P3 / P3 + P3** to be flexible. 
 
 ## License
 
