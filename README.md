@@ -107,7 +107,7 @@ If you have **CCU IV** (Command Center Upgrades level IV), it's recommended to *
     <img id="img1" src="Templates/images/1_x_P4_+_1_x_P3_Hybrid_Factory_preview.png" style="width: 45%; height: auto;">
 </div>
 
-  *Example: producing both **Broadcast Nodes** (P3) and **High-Tech Transmitters** (P4) from the same setup.*
+  *Example: producing both **Broadcast Nodes** (P4) and **High-Tech Transmitters** (P3) from the same setup.*
 
 ## License
 
