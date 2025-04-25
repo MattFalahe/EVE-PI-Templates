@@ -131,8 +131,15 @@ We welcome contributions from the community! If you have a template to add or an
 
 ## Acknowledgements
 
-- EVE Online for providing the rich world of Planetary Interaction.
-- The community for contributing feedback and suggestions to improve these templates.
+Big thanks to the creators and community behind **EVE Online** for building such a deep and complex universe — one where industrialists, explorers, and empire builders each play a vital role.
+
+Special recognition to the **Planetary Interaction (PI)** system for enabling players to engage in logistics, supply chains, and manufacturing at a planetary scale — it's like playing spreadsheets in space, but better.
+
+These templates were made with inspiration drawn from countless hours of experimenting, optimizing, and learning from fellow capsuleers — including valuable insights from users like **RVAMitchell** and **Lovelyrose3**, whose feedback and ideas helped refine these models.
+
+Gratitude goes out to the broader **EVE community** for sharing feedback, tips, and real in-game experience. Your insights have shaped these templates into something more efficient and accessible for both new and veteran players.
+
+Fly safe, build smart, and keep those planets busy.
 
 ## Contact
 
